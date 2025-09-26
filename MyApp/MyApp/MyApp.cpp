@@ -6,6 +6,7 @@
 int main()
 {
     std::cout << "\033[0;32m\033[41mHello World!\n\033[33m";
+    std::cout << "Hello it's my commit";
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
